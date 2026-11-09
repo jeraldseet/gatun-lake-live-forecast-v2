@@ -1,6 +1,6 @@
 # Gatun Lake Transit Capacity Monitor
 
-### 👉 [Open the live dashboard](https://gatun-lake-live-monitor.pages.dev)
+### 👉 Live dashboard: [https://gatun-lake-live-monitor.pages.dev](https://gatun-lake-live-monitor.pages.dev)
 
 A live dashboard that tracks and forecasts Gatun Lake's water level,
 the constraint that limits how many ships transit the Panama Canal
