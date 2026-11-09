@@ -24,7 +24,7 @@ each day and how deeply they can be loaded.
   dry, typical and wet scenarios
 - Reruns automatically every night
 
-**Backtested on 2015–2026**, years the model never saw in training:
+**Backtested on 2015–2026**, data hidden during training:
 average miss of 0.6 ft at 30 days, 1.2 ft at 90 days and 1.8 ft at
 180 days. The likely range captured 78–90% of actual outcomes.
 
