@@ -6,8 +6,6 @@ A live dashboard that tracks and forecasts Gatun Lake's water level,
 the constraint that limits how many ships transit the Panama Canal
 each day and how deeply they can be loaded.
 
-![Forecast tab](forecast.png)
-
 ## What it does
 
 - **Live**: the lake level from the Panama Canal Authority's gauge,
